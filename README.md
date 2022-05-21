@@ -1,6 +1,6 @@
 # Excel Project
 
-This small excel project shows my skills and knowledge of working in excel gained through my university time. It consists of multiple sheets with different functions and tools of excel:
+This small excel project shows my skills and knowledge of working in excel gained through my time at university. It consists of multiple sheets with different functions and tools of excel:
 
 - Data that was used
 - Pivot tables
