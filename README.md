@@ -12,3 +12,5 @@ This small excel project is a brief showcase of my skills and knowledge of worki
 - Text functions
 - Data validation
 - Lookup functions
+- 
+![image](https://user-images.githubusercontent.com/99446425/169713408-c9a3e820-b978-4053-b0fb-948879965780.png)
